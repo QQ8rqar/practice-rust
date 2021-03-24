@@ -1,5 +1,5 @@
 [package]
-name = "slices"
+name = "struct-test"
 version = "0.1.0"
 authors = ["Shylock-Hg <tcath2s@gmail.com>"]
 
